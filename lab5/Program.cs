@@ -6,9 +6,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Feladat1();
-        // Feladat2();
-        // Feladat3();
+        Feladat1();
+        Feladat2();
+        Feladat3();
         Feladat4();
     }
 
